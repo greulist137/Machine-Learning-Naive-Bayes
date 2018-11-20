@@ -1,2 +1,4 @@
-# Machine-Learning-Naive-Bayes
-Intro to Machine learning
+ud120-projects
+==============
+
+Starter project code for students taking Udacity ud120
